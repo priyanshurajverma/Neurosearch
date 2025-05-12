@@ -1,0 +1,11 @@
+PyMuPDF
+cloudinary
+psycopg2-binary
+requests
+python-docx
+pdfminer.six
+python-dotenv
+sentence-transformers
+pinecone
+flask
+flask-cors
