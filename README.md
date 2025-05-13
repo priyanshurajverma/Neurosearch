@@ -1,1 +1,2 @@
 This is a semantic seach based Project. In this Project our main aim is to give the solutions on the basis of keywords instead of using the tags if you type the unknown keyword it also gives the relevant things according to your keyword. It just beginning to create a hustle in the Tech Industry
+We use the python libraries for the backend and React for the frontend and Cloudinary for storing the data
